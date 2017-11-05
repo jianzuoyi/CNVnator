@@ -1,0 +1,2 @@
+Library.TDavixFile:                         libRDAVIX.so libRIO.so libNet.so
+Library.TDavixSystem:                       libRDAVIX.so libRIO.so libNet.so
